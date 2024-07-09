@@ -69,7 +69,3 @@ print(arr)  # Output: [1, 2]
 ## Contact
 
 For any questions or suggestions, feel free to contact me at [your email address].
-
----
-
-This README provides a brief overview of the dynamic array implementation, its features, usage examples, and available methods. You can customize it further based on your specific needs and preferences.
